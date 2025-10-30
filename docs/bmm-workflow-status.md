@@ -12,18 +12,18 @@ WORKFLOW_PATH: greenfield-level-3.yaml
 ## Current State
 
 CURRENT_PHASE: Analysis
-CURRENT_WORKFLOW: brainstorm-project
+CURRENT_WORKFLOW: product-brief
 CURRENT_AGENT: analyst
-PHASE_1_COMPLETE: false
+PHASE_1_COMPLETE: true
 PHASE_2_COMPLETE: false
 PHASE_3_COMPLETE: false
 PHASE_4_COMPLETE: false
 
 ## Next Action
 
-NEXT_ACTION: Guide me through Brainstorming
-NEXT_COMMAND: brainstorm-project
-NEXT_AGENT: analyst
+NEXT_ACTION: Create the Product Requirements Document (PRD)
+NEXT_COMMAND: prd
+NEXT_AGENT: pm
 
 ---
 
